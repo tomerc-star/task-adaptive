@@ -1,0 +1,17 @@
+.general-div{
+  display: flex;
+  flex-direction: column;
+  }
+  .search-div{
+  margin-left: 22px;
+  }
+  ::placeholder{
+      color: #5b7493;
+  }
+  .search-input{
+      background-color: transparent;
+      border: 2px solid #5b7493;
+      border-radius: 3%;
+      color: white;
+  }
+  
